@@ -1,0 +1,1 @@
+Hi  my name is Chase Odermott. I have many hobbies but the majority of them are out door. I do like to play board games and also watch movies. Als long as I get to do stuff with family, then Im having a great time. 
