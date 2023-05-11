@@ -4,7 +4,7 @@
   "description": "create nodejs project",
   "main": "index.js",
   "scripts": {
-    "test": "hello world"
+    "test": "node helloworld.js"
   },
   "author": "chase odermott",
   "license": "ISC"
