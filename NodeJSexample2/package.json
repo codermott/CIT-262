@@ -1,10 +1,11 @@
 {
   "name": "cit-262",
   "version": "1.0.0",
-  "description": "create nodejs project",
+  "description": "Node js test",
   "main": "index.js",
   "scripts": {
-    "test": "node helloworld.js"
+    "test": "node index.js"
   },
-  "author": "chase odermott",
+  "author": "Chase Odermott",
   "license": "ISC"
+}
